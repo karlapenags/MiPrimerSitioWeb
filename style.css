@@ -1,0 +1,28 @@
+/* Comentario */
+body{
+    background: #fdd1b6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+.imagen1{
+width: 400px;
+border-radius: 10px;
+opacity: 0.5;
+}
+.imagenlocal{
+    border-radius: 20px;
+    width: 400px;
+}
+h2{
+    text-align: center;
+}
+.corrientes {
+    background-image: url(https://img.freepik.com/vector-gratis/elegante-fondo-tinta-alcohol-pintado-mano-brillo-dorado_1048-16896.jpg);
+    font-size: 20px;
+    color: rgb(109, 95, 18);
+    background-color: rgba 0, 0, 0, 0.3;
+    background-blend-mode: luminosity;
+}
+.imagenes {
+    text-align: left;
+}
